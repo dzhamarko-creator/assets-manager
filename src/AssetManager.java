@@ -9,7 +9,7 @@ public class AssetManager {
         House house2 = new House("Vacation Home", "2018", 300000, "999 Lake Rd", 2, 2000, 5000);
 
         // create vehicles
-        Vehicle car1 = new Vehicle("My Car", "2022", 30000, "BMW", 2021, 33000);
+        Vehicle car1 = new Vehicle("My Car", "2022", 30000, "BMW", 2022, 33000);
         Vehicle truck1 = new Vehicle("Tom’s Truck", "2016", 40000, "Ford F150", 2015, 120000);
 
         assets.add(house1);
